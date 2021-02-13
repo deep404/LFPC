@@ -1,5 +1,5 @@
 # LFPC
-###### Code-ul pentru laboratorul Nr.1 am fost scris in python. Tot programul a fost impartit in mai multe blocuri, dupa semnificatie si rol. De asemenea, code-ul este scris, astfel incat cu acesta rezolva toate variantele din lucrare de laborator, nu daor a mea personala, varianta Nr.20.
+###### Code-ul pentru laboratorul Nr.1 am fost scris in python. Tot programul a fost impartit in mai multe blocuri, dupa semnificatie si rol. De asemenea, code-ul este scris, astfel incat cu acesta rezolva toate variantele din lucrare de laborator, nu daor a mea personala, varianta Nr.20. Gramatica din toate variantele corespunde la gramatica de tipul 3, dupa Chomsky.
 ###### In blocul Nr.1 se importeaza librariile necesare pentru ilustrarea grafului din ultimul bloc.
 ###### In blocul Nr.2 afiseaza legenda pentru gramatica care va fi utilizata pe parcursul programului.
 ###### In blocul Nr.3 se afla si se salveaza simbolurile terminale, marcate cu litere mici a alfabetului englez
